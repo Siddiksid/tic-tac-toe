@@ -1,0 +1,17 @@
+.grid {
+  height: 450px;
+  width: 450px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.turn-highlight {
+  color: white;
+}
+.reset {
+  padding: 1rem;
+  color: white;
+  background: #28a7;
+}
